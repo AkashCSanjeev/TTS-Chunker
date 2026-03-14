@@ -2,7 +2,7 @@
 
 Benchmarks two approaches to TTS inference and shows how first-audio latency drops from seconds to milliseconds by splitting text into chunks and overlapping inference with playback.
 
-Companion code for the blog post: [Getting TTS to Feel Instant: A Pipelining Approach](#)
+Companion code for the blog post: [Your TTS Is Fast. Your Architecture Isn't.](#)
 
 ---
 
